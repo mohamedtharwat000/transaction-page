@@ -1,9 +1,9 @@
-import { Transaction } from '../models/transaction.js';
+// import { Transaction } from '../models/transaction.js';
 
 // Fetch transaction data from a database or JSON file
-const transactions: Transaction[] = [
-  // Sample transaction data
-];
+// const transactions: Transaction[] = [
+// Sample transaction data
+// ];
 
 // export const getDonInformation = (req, res) => {
 //   // Find the transaction based on the request parameters or query
